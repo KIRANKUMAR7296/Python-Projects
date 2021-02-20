@@ -1,5 +1,13 @@
 # Scraping using Python 
 
+1. Wikipedia 
+2. YouTube 
+3. Instagram 
+4. Google Text to Speech 
+5. Web Scraping 
+
+###  Libraries
+
 1. Wikipedia : [pip install wikipedia](https://pypi.org/project/wikipedia/)
 2. YouTube : [pip install pytube](https://pypi.org/project/pytube/)
 3. Instagram : [pip install instaloader](https://pypi.org/project/instaloader/)
